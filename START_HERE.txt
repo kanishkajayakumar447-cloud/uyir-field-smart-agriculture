@@ -1,0 +1,10 @@
+UYIR FIELD — START HERE
+
+1. Run database/setup.sql in MySQL Workbench.
+2. Edit src/main/resources/application.properties and replace CHANGE_ME with your MySQL password.
+3. In Eclipse: File > Import > Maven > Existing Maven Projects > choose the extracted UYIR_FIELD folder.
+4. Wait for Maven dependencies, then run com.uyirfield.UyirFieldApplication.
+5. Open http://localhost:8080
+
+Requires JDK 17+ and MySQL Server. See README.md for details.
+Software-only simulation: no physical hardware or live weather service is connected.
